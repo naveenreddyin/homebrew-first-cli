@@ -1,8 +1,8 @@
 class FirstCli < Formula
     desc "A dummy first cli in rust"
     homepage "https://github.com/naveenreddyin/first-cli/"
-    url "https://github.com/naveenreddyin/first-cli/releases/download/v0.2.0/first-cli-mac.tar.gz"
-    sha256 "49731e0bf5637307c8a0f367581d3e13f441dd804787de3fd37f4e7284bf54d2"
+    url "https://github.com/naveenreddyin/first-cli/releases/download/v0.3.0/first-cli-mac.tar.gz"
+    sha256 "f1d967c6ac39dc376ef9b05a67b1dcc081ebf293ec73759c6fdebfdf8534e198"
     version "0.2.0"
   
     def install
